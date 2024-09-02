@@ -1,0 +1,24 @@
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\obj\Debug\Registration Concepts.csproj.AssemblyReference.cache
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\obj\Debug\Registration Concepts.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\Registration Concepts.exe.config
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\Registration Concepts.exe
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\Registration Concepts.pdb
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\obj\Debug\Registration Concepts.exe
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\obj\Debug\Registration Concepts.pdb
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\Autofac.dll
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Buffers.dll
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Memory.dll
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\Autofac.xml
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Buffers.xml
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Memory.xml
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\E272830\Desktop\dependency_injection_autofac_udemy\Dependency Injection\Registration Concepts\obj\Debug\Registra.DE56F888.Up2Date

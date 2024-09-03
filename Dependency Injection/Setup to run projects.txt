@@ -1,0 +1,34 @@
+
+All Projects:
+	-Install Autofac from NuGet Packages Manager (Project > Manage NuGet Packages > Browse > Install )
+
+
+Configuration and Modules Project:
+
+Steps to setup:
+	-Install following NuGet Packages:
+	
+		Microsoft.Extensions.Configuration
+		Microsoft.Extensions.Configuration.FileExtensions
+		Microsoft.Extensions.Configuration.Abstractions
+		Microsoft.Extensions.Configuration.Json
+		
+		Microsoft.Extensions.FileProviders.Abstractions
+		Microsoft.Extensions.FileProviders.Physical
+		
+		Microsoft.Extensions.FileSystemGlobbing
+		
+		Microsoft.Extensions.Primitives
+		
+		Autofac.Configuration
+		
+	- Create a config.json file in Project Directory
+	- Change the config.json file copy property from 
+		Config.json >Properties > Copy to Output Directory> Copy if newer
+		
+
+Advanced Topics Project:
+	-Install NuGet Packages 
+		- Autofac.Extras.AtrributeMetadata
+		- Autofac.Extras.AggregateService
+	

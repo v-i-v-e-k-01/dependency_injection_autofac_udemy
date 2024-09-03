@@ -2,4 +2,4 @@
 
 Dependency Injection In C# and .NET With The Autofac Library 
 
-Note: Install Nuget Package "Autofac" for every project in the solution before running the projects
+Note: Install Nuget Packages and other requirements before running projects -- refer "Dependency Injection/Setup to run projects.txt" 
